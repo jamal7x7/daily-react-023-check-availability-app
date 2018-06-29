@@ -1,4 +1,4 @@
-## daily-react-023-check-availability-app
+## Daily-react-023-check-availability-app
 
 > Challenge: create an app to check availability of some items or services.
 
